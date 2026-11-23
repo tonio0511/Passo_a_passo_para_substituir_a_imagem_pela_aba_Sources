@@ -1,4 +1,4 @@
-# passo_a_passo_mudar_imagens_no_html_usando_o_sources
+# passo_a passo para mudar imagens no html usando o Sources
 
 Passo a passo para substituir a imagem pela aba Sources
 
