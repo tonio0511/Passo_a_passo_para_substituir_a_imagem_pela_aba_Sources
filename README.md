@@ -1,6 +1,6 @@
-# passo_a passo para mudar imagens no html usando o Sources
 
-Passo a passo para substituir a imagem pela aba Sources
+
+ #                         Passo a passo para substituir a imagem pela aba Sources
 
 1. Abra o DevTools (F12 ou Ctrl + Shift + I no Windows / Cmd + Option + I no Mac) e vá até a aba Sources (Origens).
 2. No menu lateral esquerdo (onde ficam as pastas do site), clique na sub-aba Overrides (Substituições) — se não aparecer, clique na setinha >> ao lado de Page.
